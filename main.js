@@ -208,10 +208,16 @@ document.addEventListener('DOMContentLoaded', async function() {
             }
 
             divCap.addEventListener('click', () => {
+                if (cap.derogado) return; // No abrir si está derogado
                 const visible = divArticulos.style.display === 'block';
                 divArticulos.style.display = visible ? 'none' : 'block';
                 divCap.classList.toggle('abierto', !visible);
             });
+
+            if (cap.derogado) {
+                divCap.style.pointerEvents = 'none'; // No permitir interacción
+                divCap.style.opacity = '0.6'; // Opcional: se ve desactivado
+            }
 
             divTitulo.appendChild(divCap);
             divTitulo.appendChild(divArticulos);
@@ -220,19 +226,11 @@ document.addEventListener('DOMContentLoaded', async function() {
         contenedorLey.appendChild(divTitulo);
     });
 
-    // Cargar anexos (haciéndolos clickeables)
+    // Cargar anexos
     leyData.anexos.forEach(anexo => {
         const divAnexo = document.createElement('div');
         divAnexo.className = 'anexo';
-        
-        // Hacer el anexo clickeable
-        divAnexo.style.cursor = 'pointer';
-        divAnexo.addEventListener('click', () => {
-            const content = window.LawData.getAnexoContent(anexo.nombre);
-            openModal(content);
-        });
-        
-        // Contenido del anexo
+
         const anexoContent = document.createElement('div');
         anexoContent.innerHTML = `<strong>${anexo.nombre}</strong> - Complementa: ${anexo.complementa}`;
         if (anexo.derogado) {
@@ -241,8 +239,20 @@ document.addEventListener('DOMContentLoaded', async function() {
             spanDerogado.textContent = ' (Derogado)';
             anexoContent.appendChild(spanDerogado);
         }
-        
+
         divAnexo.appendChild(anexoContent);
+
+        if (!anexo.derogado) {
+            divAnexo.style.cursor = 'pointer';
+            divAnexo.addEventListener('click', () => {
+                const content = window.LawData.getAnexoContent(anexo.nombre);
+                openModal(content);
+            });
+        } else {
+            divAnexo.style.pointerEvents = 'none'; // No permitir interacción
+            divAnexo.style.opacity = '0.6'; // Opcional: desactivado visualmente
+        }
+
         contenedorAnexos.appendChild(divAnexo);
     });
 });
