@@ -1,0 +1,564 @@
+{
+    "titulos": [
+        {
+        "nombre": "TÍTULO I: Disposiciones Generales",
+        "capitulos": [
+            {
+            "nombre": "Capítulo 1: Establecimientos",
+            "articulos": [
+                {
+                "numero": "1",
+                "contenido": "<p><strong>Artículo 1:</strong> Todo establecimiento que se instale en el territorio de la República que amplíe o modifique sus instalaciones, dará cumplimiento a la Ley número 19.587 y a las Reglamentaciones que al respecto se dicten. (Artículo sustituido por art. 2° del Decreto N° 1057/2003 B.O. 13/11/2003).</p>"
+                },
+                {
+                "numero": "2",
+                "contenido": "<p><strong>Artículo 2:</strong> Aquellos establecimientos en funcionamiento o en condiciones de funcionamiento, deberán adecuarse a la Ley Nº 19.587 y a las reglamentaciones que al respecto se dicten, de conformidad con los modos que a tal efecto fijará la SUPERINTENDENCIA DE RIESGOS DEL TRABAJO atendiendo a las circunstancias de cada caso y a los fines previstos por dicha Ley.</p>"
+                },
+                {
+                "numero": "3",
+                "contenido": "<p><strong>Artículo 3:</strong> Las firmas comerciales, sociedades, empresas o personas de existencia visible o ideal que adquieran, exploten o administren un establecimiento en funcionamiento o en condiciones de funcionar, asumen todas las responsabilidades y obligaciones correspondientes a la Ley Nº 19.587 y sus Reglamentaciones.</p>"
+                },
+                {
+                "numero": "4",
+                "contenido": "<p><strong>Artículo 4:</strong> El término establecimiento, designa la unidad técnica o de ejecución, donde se realicen tareas de cualquier índole o naturaleza con la presencia de personas físicas.</p>"
+                },
+                {
+                "numero": "5",
+                "contenido": "<p><strong>Artículo 5:</strong> Las recomendaciones técnicas sobre Higiene y Seguridad en el Trabajo, dictadas o a dictarse por organismos estatales o privados, nacionales o extranjeros, pasarán a formar parte del presente Reglamento una vez aprobadas por la SUPERINTENDENCIA DE RIESGOS DEL TRABAJO. (Artículo sustituido por art. 3° del Decreto N° 1057/2003 B.O. 13/11/2003).</p>"
+                },
+                {
+                "numero": "6",
+                "contenido": "<p><strong>Artículo 6:</strong> Las normas técnicas dictadas o a dictarse por la Dirección Nacional de Higiene y Seguridad en el Trabajo integran la presente Reglamentación.</p>"
+                },
+                {
+                "numero": "7",
+                "contenido": "<p><strong>Artículo 7:</strong> Facúltase a la Autoridad Nacional de Aplicación a incorporar a la presente reglamentación los textos de las Recomendaciones de la Organización Internacional del Trabajo y de la Organización Mundial de la Salud que fuere conveniente utilizar y que completen los objetivos de la Ley Nº 19.587.</p>"
+                }
+            ]
+            }
+        ]
+        },
+        {
+        "nombre": "TÍTULO II: Prestaciones de Medicina y de Higiene y de Seguridad en el Trabajo",
+        "capitulos": [
+            {
+            "nombre": "Capítulo 2: Servicios",
+            "derogado": true
+            },
+            {
+            "nombre": "Capítulo 3: Servicio de Medicina del Trabajo",
+            "derogado": true
+            },
+            {
+            "nombre": "Capítulo 4: Servicio de Higiene y Seguridad en el Trabajo",
+            "derogado": true
+            }
+        ]
+        },
+        {
+        "nombre": "TÍTULO III: Características Constructivas de los Establecimientos",
+        "capitulos": [
+            {
+            "nombre": "Capítulo 5: Proyecto, instalación, ampliación, acondicionamiento y modificación",
+            "articulos": [
+                {
+                "numero": "42",
+                "contenido": "Los establecimientos deberán contar con planos aprobados por autoridad competente que contemplen las condiciones de higiene y seguridad necesarias."
+                },
+                {
+                "numero": "43",
+                "contenido": "Toda modificación en la estructura edilicia deberá ser comunicada a la autoridad laboral correspondiente."
+                },
+                {
+                "numero": "44",
+                "contenido": "Las instalaciones deben garantizar el acceso seguro y adecuado al personal, incluyendo salidas de emergencia claramente señalizadas."
+                }
+            ]
+            },
+            {
+            "nombre": "Capítulo 6: Provisión de agua potable",
+            "articulos": [
+                {
+                "numero": "57",
+                "contenido": "Los establecimientos deberán proveer agua potable en cantidad suficiente para consumo humano y tareas de higiene."
+                },
+                {
+                "numero": "58",
+                "contenido": "El agua potable deberá cumplir con los requisitos establecidos por la autoridad sanitaria."
+                }
+            ]
+            },
+            {
+            "nombre": "Capítulo 7: Desagües industriales",
+            "articulos": [
+                {
+                "numero": "59",
+                "contenido": "Los desagües industriales deberán estar diseñados de manera que no contaminen el ambiente ni pongan en riesgo la salud de los trabajadores."
+                }
+            ]
+            }
+        ]
+        },
+        {
+        "nombre": "TÍTULO IV: Condiciones de Higiene en los Ambientes Laborales",
+        "capitulos": [
+            {
+            "nombre": "Capítulo 8: Carga térmica",
+            "articulos": [
+                {
+                    "numero": "60",
+                    "contenido": "<p><strong>Artículo 60. — Definiciones:</strong></p>\n\n<p><strong>Carga térmica ambiental:</strong> Es el calor intercambiado entre el hombre y el ambiente.</p>\n\n<p><strong>Carga térmica:</strong> Es la suma de carga térmica ambiental y el calor generado en los procesos metabólicos.</p>\n\n<p><strong>Condiciones higrotérmicas:</strong> Son las determinadas por la temperatura, humedad, velocidad del aire y radiación térmica.</p>\n\n<p><strong>1. Evaluación de las condiciones higrotérmicas.</strong></p>\n\n<p>Se determinarán las siguientes variables con el instrumental indicado en el Anexo II:</p>\n\n<p>1.1. Temperatura del bulbo seco.</p>\n\n<p>1.2. Temperatura del bulbo húmedo natural.</p>\n\n<p>1.3. Temperatura del globo.</p>\n\n<p><strong>2. Estimación del calor metabólico.</strong></p>\n\n<p>Se determinará por medio de las tablas que figuran en el Anexo, según la posición en el trabajo y el grado de actividad.</p>\n\n<p><strong>3.</strong> Las determinaciones se efectuarán en condiciones similares a las de la tarea habitual. Si la carga térmica varía a lo largo de la jornada, ya sea por cambios de las condiciones higrotérmicas del ambiente, por ejecución de tareas diversas con diferentes metabolismos, o por desplazamiento del hombre por distintos ambientes, deberá medirse cada condición habitual de trabajo.</p>\n\n<p><strong>4.</strong> El índice se calculará según el Anexo II a fin de determinar si las condiciones son admisibles de acuerdo a los límites allí fijados.</p>\n\n<p>Cuando ello no ocurra deberá procederse a adoptar las correcciones que la técnica aconseje.</p>"
+                }
+            ]
+            },
+            {
+            "nombre": "Capítulo 9: Contaminación ambiental",
+            "articulos": [
+                {
+                    "numero": "61",
+                    "contenido": "<p><strong>Artículo 61.</strong> — Todo lugar de trabajo en el que se efectúan procesos que produzcan la contaminación del ambiente con gases, vapores, humos, nieblas, polvos, fibras, aerosoles o emanaciones de cualquier tipo, deberá disponer de dispositivos destinados a evitar que dichos contaminantes alcancen niveles que puedan afectar la salud del trabajador. Estos dispositivos deberán ajustarse a lo reglamentado en el capítulo 11 del presente decreto.</p>\n\n<p><strong>1.</strong> La autoridad competente fijará concentraciones máximas permisibles para los ambientes de trabajo que figuran como Anexo III como tablas de concentraciones máximas permisibles, las que serán objeto de una revisión anual a fin de su actualización. Cada vez que sea necesario, podrán introducirse modificaciones, eliminaciones o agregados.</p>\n\n<p><strong>2.</strong> En los lugares de trabajo donde se realicen procesos que den origen a estados de contaminación ambiental o donde se almacenen sustancias agresivas (tóxicas, irritantes o infectantes), se deberán efectuar análisis de aire periódicos a intervalos tan frecuentes como las circunstancias lo aconsejen.</p>\n\n<p><strong>3.</strong> La técnica y equipos de muestreo y análisis a utilizar deberán ser aquellos que los últimos adelantos en la materia aconsejen, actuando en el rasgo de interés sanitario definido por el tamaño de las partículas o las características de las sustancias que puedan producir manifestaciones tóxicas.</p>\n\n<p>Esta tarea será programada y evaluada por graduado universitario, conforme a lo establecido en el Capítulo 4, Artículo 35.</p>\n\n<p><strong>4.</strong> Cuando se compruebe que algunos de los contaminantes puedan resultar riesgosos por la presencia de otro u otros contaminantes o factores concurrentes por circunstancias no contempladas en la presente reglamentación, la autoridad competente podrá exigir a los establecimientos, que disminuyan los contaminantes a concentraciones inferiores a las consignadas en la tabla de concentraciones máximas permisibles.</p>\n\n<p><strong>5.</strong> Los inspectores de la autoridad competente al realizar la determinación de contaminantes en los lugares de trabajo, deberán proceder a dejar debida constancia en actas de lo siguiente:</p>\n\n<p><strong>5.1.</strong> Descripción del proceso (información que deberá proporcionar el establecimiento).</p>\n\n<p><strong>5.2.</strong> Descripción de las condiciones operativas.</p>\n\n<p><strong>5.3.</strong> Descripción de la técnica de toma de muestra e instrumental utilizado.</p>\n\n<p><strong>5.4.</strong> Técnico analítica e instrumental utilizado o a utilizar.</p>\n\n<p><strong>5.5.</strong> Número de muestras tomadas, especificando para cada una, tiempo de muestreo, caudal, lugar de toma de muestra y tarea que se está llevando a cabo durante la misma.</p>\n\n<p><strong>5.6.</strong> Tiempo de exposición.</p>\n\n<p><strong>5.7.</strong> Frecuencia de la exposición en la jornada de trabajo.</p>"
+                }
+            ]
+            },
+            {
+            "nombre": "Capítulo 10: Radiaciones",
+            "articulos": [
+                {
+                "numero": "62",
+                "contenido": "<p><strong>Artículo 62.</strong> — Radiaciones ionizantes:</p>\n\n<p><strong>1.</strong> La Secretaría de Estado de Salud Pública de la Nación es la autoridad competente de aplicación de la Ley Nº 19.587 en el uso o aplicación de equipos generadores de Rayos X, con facultades para tramitar y expedir licencias y autorizaciones que reglamenten la fabricación, instalación y operación de estos equipos y para otorgar licencias y autorizaciones a las personas bajo cuya responsabilidad se lleven a cabo dichas prácticas u operaciones.</p>\n\n<p><strong>2.</strong> La Comisión Nacional de Energía Atómica es la autoridad competente de aplicación de la ley 19.587 en el uso o aplicación de materiales radiactivos, materiales nucleares y aceleradores de partículas cuyo fin fundamental no sea específicamente la generación de Rayos X y radiaciones ionizantes provenientes de los mismos o de reacciones o transmutaciones nucleares, con facultades para tramitar y expedir licencias y autorizaciones específicas que reglamenten el emplazamiento, la construcción, la puesta en servicio, la operación y el cierre definitivo de instalaciones para otorgar licencias y autorizaciones específicas a las personas bajo cuya responsabilidad se lleven a cabo dichas prácticas u operaciones.</p>\n\n<p><strong>3.</strong> Ninguna persona podrá fabricar, instalar u operar equipos generadores de Rayos X o aceleradores de partículas, ni elaborar, producir, recibir, adquirir, proveer, usar, importar, exportar, transportar o utilizar en ninguna forma, materiales radiactivos, materiales nucleares, o radiaciones ionizantes provenientes de los mismos o de reacciones o transmutaciones nucleares sin previa autorización de la Secretaría de Estado de Salud Pública de la Nación o de la Comisión Nacional de Energía Atómica, según corresponda, de acuerdo a lo indicado en los incisos 1 y 2 del presente Artículo.</p>\n\n<p><strong>4.</strong> La autoridad competente correspondiente, de acuerdo a lo establecido en los incisos 1 y 2 del presente Artículo, deberá autorizar su operación y expedir una licencia en cada caso, donde constará el o los usos para los cuales se ha autorizado la instalación y los límites operativos de la misma.</p>\n\n<p><strong>5.</strong> La autoridad competente correspondiente, de acuerdo a lo establecido en los incisos 1 y 2 del presente Artículo, promulgará cuando sea necesario las reglamentaciones, normas, códigos, guías, recomendaciones y reglas de aplicación a las que deberán ajustarse las instalaciones respectivas.</p>\n\n<p><strong>6.</strong> El certificado de habilitación, así como las reglamentaciones, normas, códigos, guías, recomendaciones y reglas que sean de aplicación en la instalación, deberán estar a disposición de la autoridad competente y del Ministerio de Trabajo de la Nación.</p>\n\n<p><strong>7.</strong> En aquellos casos en que el Ministerio de Trabajo de la Nación observara el incumplimiento de las disposiciones vigentes, cursará la comunicación respectiva a la autoridad competente correspondiente, solicitando su intervención.</p>\n\n<p><strong>8.</strong> Las instalaciones sólo podrán ser operadas bajo la responsabilidad directa de personas físicas especialmente licenciadas y autorizadas al efecto por la respectiva autoridad competente.</p>"
+                },
+                {
+                "numero": "63",
+                "contenido": "<p><strong>Artículo 63.</strong> — Radiaciones no ionizantes:</p>\n\n<p><strong>1. Radiaciones infrarrojas.</strong></p>\n\n<p><strong>1.1.</strong> En los lugares de trabajo en que exista exposición intensa a radiaciones infrarrojas, se instalarán tan cerca de las fuentes de origen como sea posible, pantallas absorbentes, cortinas de agua u otros dispositivos apropiados para neutralizar o disminuir el riesgo.</p>\n\n<p><strong>1.2.</strong> Los trabajadores expuestos frecuentemente a estas radiaciones serán provistos de protección ocular. Si la exposición es constante, se dotará además a los trabajadores de casco con visera o máscara adecuada y de ropas ligeras y resistentes al calor.</p>\n\n<p><strong>1.3.</strong> La pérdida parcial de luz ocasionada por el empleo de anteojos, viseras o pantallas absorbentes será compensada con un aumento de la iluminación.</p>\n\n<p><strong>1.4.</strong> Se adoptarán las medidas de prevención médica oportunas, para evitar trastornos de los trabajadores sometidos a estas radiaciones.</p>\n\n<p><strong>2. Radiaciones ultravioletas nocivas.</strong></p>\n\n<p><strong>2.1.</strong> En los trabajos de soldadura u otros, que presenten el riesgo de emisión de radiaciones ultravioletas nocivas en cantidad y calidad, se tomarán las precauciones necesarias.</p>\n\n<p>Preferentemente estos trabajos se efectuarán en cabinas individuales o compartimientos y de no ser ello factible, se colocarán pantallas protectoras móviles o cortinas incombustibles alrededor de cada lugar de trabajo. Las paredes interiores no deberán reflejar las radiaciones.</p>\n\n<p><strong>2.2.</strong> Todo trabajador sometido a estas radiaciones será especialmente instruido, en forma repetida, verbal y escrita de los riesgos a que está expuesto y provisto de medios adecuados de protección, como ser: anteojos o máscaras protectoras con cristales coloreados para absorber las radiaciones, guantes apropiados y cremas protectoras para las partes del cuerpo que queden al descubierto.</p>\n\n<p><strong>3. Microondas.</strong></p>\n\n<p>Las exposiciones laborales máximas a microondas en la gama de frecuencias comprendidas entre 100 M Hz y 100 G Hz es la siguiente:</p>\n\n<p><strong>3.1.</strong> Para niveles de densidad media de flujo de energía que no superen 10 mW/cm2, el tiempo total de exposición se limitará a 8h/día (exposición continua).</p>\n\n<p><strong>3.2.</strong> Para niveles de densidad media de flujo de energía a partir de 10 mW/cm2, pero sin superar 25 mW/cm2, el tiempo de exposición se limitará a un máximo de 10 minutos en cada período de 60 minutos durante la jornada de 8 horas (exposición intermitente).</p>\n\n<p><strong>3.3.</strong> Para niveles de densidad media de flujo de energía superiores a 25 mW/cm2, no se permite la exposición.</p>"
+                }
+            ]
+            },
+            {
+            "nombre": "Capítulo 11: Ventilación",
+            "articulos": [
+                {
+                "numero": "64",
+                "contenido": "<p><strong>Artículo 64.</strong> — En todos los establecimientos, la ventilación contribuirá a mantener condiciones ambientales que no perjudiquen la salud del trabajador.</p>"
+                },
+                {
+                "numero": "65",
+                "contenido": "<p><strong>Artículo 65.</strong> — Los establecimientos en los que se realicen actividades laborales, deberán ventilarse preferentemente en forma natural.</p>"
+                },
+                {
+                "numero": "66",
+                "contenido": "<p><strong>Artículo 66.</strong> — La ventilación mínima de los locales, determinada en función del número de personas, será la establecida en la siguiente tabla:</p>\n\n<p><strong>PARA ACTIVIDAD SEDENTARIA</strong></p>\n\n<table style=\"width:100%; border-collapse: collapse; text-align: center;\">\n  <thead>\n    <tr style=\"background-color: #f2f2f2;\">\n      <th style=\"border: 1px solid #ccc; padding: 8px;\">Cantidad de personas</th>\n      <th style=\"border: 1px solid #ccc; padding: 8px;\">Cubaje del local (m³/persona)</th>\n      <th style=\"border: 1px solid #ccc; padding: 8px;\">Caudal de aire necesario (m³/h/persona)</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr><td style=\"border: 1px solid #ccc; padding: 8px;\">1</td><td style=\"border: 1px solid #ccc; padding: 8px;\">3</td><td style=\"border: 1px solid #ccc; padding: 8px;\">43</td></tr>\n    <tr><td style=\"border: 1px solid #ccc; padding: 8px;\">1</td><td style=\"border: 1px solid #ccc; padding: 8px;\">6</td><td style=\"border: 1px solid #ccc; padding: 8px;\">29</td></tr>\n    <tr><td style=\"border: 1px solid #ccc; padding: 8px;\">1</td><td style=\"border: 1px solid #ccc; padding: 8px;\">9</td><td style=\"border: 1px solid #ccc; padding: 8px;\">21</td></tr>\n    <tr><td style=\"border: 1px solid #ccc; padding: 8px;\">1</td><td style=\"border: 1px solid #ccc; padding: 8px;\">12</td><td style=\"border: 1px solid #ccc; padding: 8px;\">15</td></tr>\n    <tr><td style=\"border: 1px solid #ccc; padding: 8px;\">1</td><td style=\"border: 1px solid #ccc; padding: 8px;\">15</td><td style=\"border: 1px solid #ccc; padding: 8px;\">12</td></tr>\n  </tbody>\n</table>\n\n<p><strong>PARA ACTIVIDAD MODERADA</strong></p>\n\n<table style=\"width:100%; border-collapse: collapse; text-align: center;\">\n  <thead>\n    <tr style=\"background-color: #f2f2f2;\">\n      <th style=\"border: 1px solid #ccc; padding: 8px;\">Cantidad de personas</th>\n      <th style=\"border: 1px solid #ccc; padding: 8px;\">Cubaje del local (m³/persona)</th>\n      <th style=\"border: 1px solid #ccc; padding: 8px;\">Caudal de aire necesario (m³/h/persona)</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr><td style=\"border: 1px solid #ccc; padding: 8px;\">1</td><td style=\"border: 1px solid #ccc; padding: 8px;\">3</td><td style=\"border: 1px solid #ccc; padding: 8px;\">65</td></tr>\n    <tr><td style=\"border: 1px solid #ccc; padding: 8px;\">1</td><td style=\"border: 1px solid #ccc; padding: 8px;\">6</td><td style=\"border: 1px solid #ccc; padding: 8px;\">43</td></tr>\n    <tr><td style=\"border: 1px solid #ccc; padding: 8px;\">1</td><td style=\"border: 1px solid #ccc; padding: 8px;\">9</td><td style=\"border: 1px solid #ccc; padding: 8px;\">31</td></tr>\n    <tr><td style=\"border: 1px solid #ccc; padding: 8px;\">1</td><td style=\"border: 1px solid #ccc; padding: 8px;\">12</td><td style=\"border: 1px solid #ccc; padding: 8px;\">23</td></tr>\n    <tr><td style=\"border: 1px solid #ccc; padding: 8px;\">1</td><td style=\"border: 1px solid #ccc; padding: 8px;\">15</td><td style=\"border: 1px solid #ccc; padding: 8px;\">18</td></tr>\n  </tbody>\n</table>"
+                },
+                {
+                "numero": "67",
+                "contenido": "<p><strong>Artículo 67.</strong> — Si existiera contaminación de cualquier naturaleza o condiciones ambientales que pudieran ser perjudiciales para la salud, tales como carga térmica, vapores, gases, nieblas, polvos u otras impurezas en el aire, la ventilación contribuirá a mantener permanentemente en todo el establecimiento las condiciones ambientales y en especial la concentración adecuada de oxígeno y la de contaminantes dentro de los valores admisibles y evitará la existencia de zonas de estancamiento.</p>"
+                },
+                {
+                "numero": "68",
+                "contenido": "<p><strong>Artículo 68.</strong> — Cuando por razones debidamente fundadas ante la autoridad competente no sea posible cumplimentar lo expresado en el artículo precedente, ésta podrá autorizar el desempeño de las tareas con las correspondientes precauciones, de modo de asegurar la protección de la salud del trabajador.</p>"
+                },
+                {
+                "numero": "69",
+                "contenido": "<p><strong>Artículo 69.</strong> — Cuando existan sistemas de extracción, los locales poseerán entradas de aire de capacidad y ubicación adecuadas, para reemplazar el aire extraído.</p>"
+                },
+                {
+                "numero": "70",
+                "contenido": "<p><strong>Artículo 70.</strong> — Los equipos de tratamiento de contaminantes, captados por los extractores localizados, deberán estar instalados de modo que no produzcan contaminación ambiental durante las operaciones de descarga o limpieza. Si estuvieran instalados en el interior del local de trabajo, éstas se realizarán únicamente en horas en que no se efectúan tareas en el mismo.</p>"
+                }
+            ]
+            },
+            {
+            "nombre": "Capítulo 12: Iluminación y color",
+            "articulos": [
+                {
+                "numero": "71",
+                "contenido": "<p><strong>Artículo 71.</strong> — La iluminación en los lugares de trabajo deberá cumplimentar lo siguiente:</p>\n\n<p><strong>1.</strong> La composición espectral de la luz deberá ser adecuada a la tarea a realizar, de modo que permita observar o reproducir los colores en la medida que sea necesario.</p>\n\n<p><strong>2.</strong> El efecto estroboscópico, será evitado.</p>\n\n<p><strong>3.</strong> La iluminancia será adecuada a la tarea a efectuar, teniendo en cuenta el mínimo tamaño a percibir, la reflexión de los elementos, el contraste y el movimiento.</p>\n\n<p><strong>4.</strong> Las fuentes de iluminación no deberán producir deslumbramientos, directo o reflejado, para lo que se distribuirán y orientarán convenientemente las luminarias y superficies reflectantes existentes en el local.</p>\n\n<p><strong>5.</strong> La uniformidad de la iluminación, así como las sombras y contrastes serán adecuados a la tarea que se realice.</p>"
+                },
+                {
+                "numero": "72",
+                "contenido": "<p><strong>Artículo 72.</strong> — Cuando las tareas a ejecutar no requieran el correcto discernimiento de los colores y sólo una visión adecuada de volúmenes, será admisible utilizar fuentes luminosas monocromáticas o de espectro limitado.</p>"
+                },
+                {
+                "numero": "73",
+                "contenido": "<p><strong>Artículo 73.</strong> — Las iluminancias serán las establecidas en el Anexo IV.</p>"
+                },
+                {
+                "numero": "74",
+                "contenido": "<p><strong>Artículo 74.</strong> — Las relaciones de iluminancias serán las establecidas en el Anexo IV.</p>"
+                },
+                {
+                "numero": "75",
+                "contenido": "<p><strong>Artículo 75.</strong> — La uniformidad de la iluminación será la establecida en el Anexo IV.</p>"
+                },
+                {
+                "numero": "76",
+                "contenido": "<p><strong>Artículo 76.</strong> — En todo establecimiento donde se realicen tareas en horarios nocturnos o que cuenten con lugares de trabajo que no reciban luz natural en horarios diurnos deberá instalarse un sistema de iluminación de emergencia.</p>\n\n<p>Este sistema suministrará una iluminancia no menor de 30 luxes a 80 cm. del suelo y se pondrá en servicio en el momento de corte de energía eléctrica, facilitando la evacuación del personal en caso necesario e iluminando los lugares de riesgo.</p>"
+                },
+                {
+                "numero": "77",
+                "contenido": "<p><strong>Artículo 77.</strong> — Se utilizarán colores de seguridad para identificar personas, lugares y objetos, a los efectos de prevenir accidentes.</p>"
+                },
+                {
+                "numero": "78",
+                "contenido": "<p><strong>Artículo 78.</strong> — Los colores a utilizar serán los establecidos en el Anexo IV.</p>"
+                },
+                {
+                "numero": "79",
+                "contenido": "<p><strong>Artículo 79.</strong> — Se marcarán en forma bien visible los pasillos y circulaciones de tránsito, ya sea pintando todo el piso de los mismos o mediante dos anchas franjas de los colores indicados en el Anexo IV delimitando la superficie de circulación. En los lugares de cruce donde circulen grúas suspendidas y otros elementos de transporte, se indicará la zona de peligro con franjas anchas de los colores establecidos en el Anexo citado y que sean contrastantes con el color natural del piso.</p>"
+                },
+                {
+                "numero": "80",
+                "contenido": "<p><strong>Artículo 80.</strong> — En los establecimientos se marcará en paredes o pisos, según convenga, líneas amarillas y flechas bien visibles, indicando los caminos de evacuación en caso de peligro, así como todas las salidas normales o de emergencia.</p>"
+                },
+                {
+                "numero": "81",
+                "contenido": "<p><strong>Artículo 81.</strong> — Las partes de máquinas y demás elementos de la instalación industrial, así como el edificio, cuyos colores no hayan sido establecidos expresamente, podrán pintarse de cualquier color que sea suficientemente contrastante con los de seguridad y no dé lugar a confusiones. Con igual criterio, las partes móviles de máquinas o herramientas, de manera tal que se visualice rápidamente cuál parte se mueve y cuál permanece en reposo.</p>"
+                },
+                {
+                "numero": "82",
+                "contenido": "<p><strong>Artículo 82.</strong> — Las cañerías se pintarán según lo establecido en el Anexo IV.</p>"
+                },
+                {
+                "numero": "83",
+                "contenido": "<p><strong>Artículo 83.</strong> — Todas las señalizaciones deberán conservarse en buenas condiciones de visibilidad, limpiándolas o repintándolas periódicamente. Las pinturas a utilizar deberán ser resistentes y durables.</p>"
+                },
+                {
+                "numero": "84",
+                "contenido": "<p><strong>Artículo 84.</strong> — Los carteles e indicadores serán pintados en colores intensos y contrastantes con la superficie que los contenga para evitar confusiones.</p>"
+                }
+            ]
+            },
+            {
+            "nombre": "Capítulo 13: Ruidos y vibraciones",
+            "articulos": [
+                        {
+                            "numero": "85",
+                            "contenido": "<p><strong>Artículo 85.</strong> — En todos los establecimientos, ningún trabajador podrá estar expuesto en una dosis de nivel sonoro continuo equivalente superior a la establecida en el Anexo V.</p>"
+                        },
+                        {
+                            "numero": "86",
+                            "contenido": "<p><strong>Artículo 86.</strong> — La determinación del nivel sonoro continuo equivalente se realizará siguiendo el procedimiento establecido en el Anexo V.</p>"
+                        },
+                        {
+                            "numero": "87",
+                            "contenido": "<p><strong>Artículo 87.</strong> — Cuando el nivel sonoro continuo equivalente supere en el ámbito de trabajo la dosis establecida en el Anexo V, se procederá a reducirlo adoptando las correcciones que se enuncian a continuación y en el orden que se detalla:</p>\n\n<p><strong>1.</strong> Procedimientos de ingeniería, ya sea en la fuente, en las vías de transmisión o en el recinto receptor.</p>\n\n<p><strong>2.</strong> Protección auditiva al trabajador.</p>\n\n<p><strong>3.</strong> De no ser suficientes las correcciones indicadas precedentemente, se procederá a la reducción de los tiempos de exposición.</p>"
+                        },
+                        {
+                            "numero": "88",
+                            "contenido": "<p><strong>Artículo 88.</strong> — Cuando existan razones debidamente fundadas ante la autoridad competente que hagan impracticable lo dispuesto en el artículo precedente, inciso 1, se establecerá la obligatoriedad del uso de protectores auditivos por toda persona expuesta.</p>"
+                        },
+                        {
+                            "numero": "89",
+                            "contenido": "<p><strong>Artículo 89.</strong> — En aquellos ambientes de trabajo sometidos a niveles sonoros por encima de la dosis máxima permisible y que por razones debidamente fundadas ante la autoridad competente hagan impracticable lo establecido en el art. 87, incisos 1 y 2, se dispondrá la reducción de los tiempos de exposición de acuerdo a lo especificado en el Anexo V.</p>"
+                        },
+                        {
+                            "numero": "90",
+                            "contenido": "<p><strong>Artículo 90.</strong> — Las características constructivas de los establecimientos y las que posean los equipos industriales a instalarse en ellos, deberán ser consideradas conjuntamente en las construcciones y modificaciones sti... [continúa el contenido]"
+                        },
+                        {
+                            "numero": "91",
+                            "contenido": "<p><strong>Artículo 91.</strong> — Cuando se usen protectores auditivos... [continúa el contenido]"
+                        },
+                        {
+                            "numero": "92",
+                            "contenido": "<p><strong>Artículo 92.</strong> — Todo trabajador expuesto a una dosis superior a 85 dB(A)... [continúa el contenido]"
+                        },
+                        {
+                            "numero": "93",
+                            "contenido": "<p><strong>Artículo 93.</strong> — Los valores límites admisibles de ultrasonidos... [continúa el contenido]"
+                        },
+                        {
+                            "numero": "94",
+                            "contenido": "<p><strong>Artículo 94.</strong> — En todos los establecimientos, ningún trabajador podrá estar expuesto a vibraciones... [continúa el contenido]"
+                        }
+                    ]
+            }
+        ]
+        },
+        {
+        "nombre": "TÍTULO V: De la Seguridad en los Establecimientos",
+        "capitulos": [
+            {
+            "nombre": "Capítulo 14: Instalaciones eléctricas",
+            "articulos": [
+                {
+                    "numero": "95",
+                    "contenido": "<p><strong>Artículo 95.</strong> — Las instalaciones y equipos eléctricos de los establecimientos, deberán cumplir con las prescripciones necesarias para evitar riesgos a personas o cosas.</p>"
+                },
+                {
+                    "numero": "96",
+                    "contenido": "<p><strong>Artículo 96.</strong> — Los materiales y equipos que se utilicen en las instalaciones eléctricas, cumplirán con las exigencias de las normas técnicas correspondientes. En caso de no estar normalizados deberán asegurar las prescripciones previstas en el presente capítulo.</p>"
+                },
+                {
+                    "numero": "97",
+                    "contenido": "<p><strong>Artículo 97.</strong> — Los proyectos de instalaciones y equipos eléctricos responderán a los Anexos correspondientes de este reglamento y además los de más de 1000 voltios de tensión deberán estar aprobados en los rubros de su competencia por el responsable del Servicio de Higiene y Seguridad en el Trabajo de cada establecimiento.</p>\n\n<p>Las tareas de montaje, maniobra o mantenimiento sin o con tensión, se regirán por las disposiciones del Anexo VI.</p>"
+                },
+                {
+                    "numero": "98",
+                    "contenido": "<p><strong>Artículo 98.</strong> — Los trabajos de mantenimiento serán efectuados exclusivamente por personal capacitado, debidamente autorizado por la empresa para su ejecución.</p>\n\n<p>Los establecimientos efectuarán el mantenimiento de las instalaciones y verificarán las mismas periódicamente en base a sus respectivos programas, confeccionados de acuerdo a normas de seguridad, registrando debidamente sus resultados.</p>"
+                },
+                {
+                    "numero": "99",
+                    "contenido": "<p><strong>Artículo 99.</strong> — Se extremarán las medidas de seguridad en salas de baterías y en aquellos locales donde se fabriquen, manipulen o almacenen materiales inflamables, explosivos o de alto riesgo; igualmente en locales húmedos, mojados o con sustancias corrosivas, conforme a lo establecido en el Anexo VI.</p>"
+                },
+                {
+                    "numero": "100",
+                    "contenido": "<p><strong>Artículo 100.</strong> — En lo referente a motores, conductores, interruptores, seccionadores, transformadores, condensadores, alternadores, celdas de protección, cortacircuitos, equipos y herramientas, máquinas de elevación y transporte, se tendrá en cuenta lo establecido en el Anexo VI.</p>"
+                },
+                {
+                    "numero": "101",
+                    "contenido": "<p><strong>Artículo 101.</strong> — Se deberán adoptar las medidas tendientes a la eliminación de la electricidad estática en todas aquellas operaciones donde pueda producirse. Los métodos se detallan en el Anexo VI. Se extremarán los recaudos en ambientes con riesgos de incendio o atmósferas explosivas.</p>"
+                },
+                {
+                    "numero": "102",
+                    "contenido": "<p><strong>Artículo 102.</strong> — Los establecimientos e instalaciones expuestos a descargas atmosféricas, poseerán una instalación contra las sobretensiones de este origen que asegure la eficaz protección de las personas y cosas. Las tomas a tierra de estas instalaciones deberán ser exclusivas e independientes de cualquier otra.</p>"
+                }
+            ]
+            },
+            {
+            "nombre": "Capítulo 15: Máquinas y herramientas",
+            "articulos": [
+                {
+                    "numero": "103",
+                    "contenido": "<p><strong>Artículo 103.</strong> — Las máquinas y herramientas usadas en los establecimientos, deberán ser seguras y en caso de que originen riesgos, no podrán emplearse sin la protección adecuada.</p>"
+                },
+                {
+                    "numero": "104",
+                    "contenido": "<p><strong>Artículo 104.</strong> — Los motores que originen riesgos, serán aislados prohibiéndose el acceso del personal ajeno a su servicio.</p>\n\n<p>Cuando estén conectados mediante transmisiones mecánicas a otras máquinas y herramientas situadas en distintos locales, el arranque y la detención de los mismos se efectuará previo aviso o señal convenida. Asimismo deberán estar provistos de interruptores a distancia, para que en caso de emergencia se pueda detener el motor desde un lugar seguro.</p>\n\n<p>Cuando se empleen palancas para hacer girar los volantes de los motores, tal operación se efectuará desde la periferia a través de la ranura de resguardo de que obligatoriamente estarán provistos.</p>\n\n<p>Los vástagos, émbolos, varillas, manivelas u otros elementos móviles que sean accesibles al trabajador por la estructura de las máquinas, se protegerán o aislarán adecuadamente.</p>\n\n<p>En las turbinas hidráulicas los canales de entrada y salida, deberán ser resguardados convenientemente.</p>"
+                },
+                {
+                    "numero": "105",
+                    "contenido": "<p><strong>Artículo 105.</strong> — Las transmisiones comprenderán a los árboles, acoplamientos, poleas, correas, engranajes, mecanismos de fricción y otros. En ellas se instalarán las protecciones más adecuadas al riesgo específico de cada transmisión, a efectos de evitar los posibles accidentes que éstas pudieran causar al trabajador.</p>"
+                },
+                {
+                    "numero": "106",
+                    "contenido": "<p><strong>Artículo 106.</strong> — Las partes de las máquinas y herramientas en las que existan riesgos mecánicos y donde el trabajador no realice acciones operativas, dispondrán de protecciones eficaces, tales como cubiertas, pantallas, barandas y otras, que cumplirán los siguientes requisitos:</p>\n\n<p>1. Eficaces por su diseño.</p>\n\n<p>2. De material resistente.</p>\n\n<p>3. Desplazamiento para el ajuste o reparación.</p>\n\n<p>4. Permitirán el control y engrase de los elementos de las máquinas.</p>\n\n<p>5. Su montaje o desplazamiento sólo podrá realizarse intencionalmente.</p>\n\n<p>6. No constituirán riesgos por sí mismos.</p>"
+                },
+                {
+                    "numero": "107",
+                    "contenido": "<p><strong>Artículo 107.</strong> — Frente al riesgo mecánico se adoptarán obligatoriamente los dispositivos de seguridad necesarios, que reunirán los siguientes requisitos:</p>\n\n<p>1. Constituirán parte integrante de las máquinas.</p>\n\n<p>2. Actuarán libres de entorpecimiento.</p>\n\n<p>3. No interferirán, innecesariamente, al proceso productivo normal.</p>\n\n<p>4. No limitarán la visual del área operativa.</p>\n\n<p>5. Dejarán libres de obstáculos dicha área.</p>\n\n<p>6. No exigirán posiciones ni movimientos forzados.</p>\n\n<p>7. Protegerán eficazmente de las proyecciones.</p>\n\n<p>8. No constituirán riesgo por sí mismos.</p>"
+                },
+                {
+                    "numero": "108",
+                    "contenido": "<p><strong>Artículo 108.</strong> — Las operaciones de mantenimiento se realizarán con condiciones de seguridad adecuadas, que incluirán de ser necesario la detención de las máquinas.</p>"
+                },
+                {
+                    "numero": "109",
+                    "contenido": "<p><strong>Artículo 109.</strong> — Toda máquina averiada o cuyo funcionamiento sea riesgoso, será señalizada con la prohibición de su manejo por trabajadores no encargados de su reparación.</p>\n\n<p>Para evitar su puesta en marcha, se bloqueará el interruptor o llave eléctrica principal o al menos el arrancador directo de los motores eléctricos, mediante candados o dispositivos similares de bloqueo, cuya llave estará en poder del responsable de la reparación que pudiera estarse efectuando.</p>\n\n<p>En el caso que la máquina exija el servicio simultáneo de varios grupos de trabajo, los interruptores, llaves o arrancadores antes mencionados deberán poseer un dispositivo especial que contemple su uso múltiple por los distintos grupos.</p>"
+                },
+                {
+                    "subtitulo": "Herramientas"
+                },
+                {
+                    "numero": "110",
+                    "contenido": "<p><strong>Artículo 110.</strong> — Las herramientas de mano estarán construidas con materiales adecuados y serán seguras en relación con la operación a realizar y no tendrán defectos ni desgastes que dificulten su correcta utilización.</p>\n\n<p>La unión entre sus elementos será firme, para evitar cualquier rotura o proyección de los mismos.</p>\n\n<p>Las herramientas de tipo martillo, macetas, hachas o similares, deberán tener trabas que impidan su desprendimiento.</p>\n\n<p>Los mangos o empuñaduras serán de dimensión adecuada, no tendrán bordes agudos ni superficies resbaladizas y serán aislantes en caso necesario. Las partes cortantes y punzantes se mantendrán debidamente afiladas. Las cabezas metálicas deberán carecer de rebarbas. Durante su uso estarán libres de lubricantes.</p>\n\n<p>Para evitar caídas de herramientas y que se puedan producir cortes o riesgos análogos, se colocarán las mismas en portaherramientas, estantes o lugares adecuados.</p>\n\n<p>Se prohibe colocar herramientas manuales en pasillos abiertos, escaleras u otros lugares elevados desde los que puedan caer sobre los trabajadores. Para el transporte de herramientas cortantes o punzantes se utilizarán cajas o fundas adecuadas.</p>"
+                },
+                {
+                    "numero": "111",
+                    "contenido": "<p><strong>Artículo 111.</strong> — Los trabajadores recibirán instrucciones precisas sobre el uso correcto de las herramientas que hayan de utilizar, a fin de prevenir accidentes, sin que en ningún caso puedan utilizarse para fines distintos a los que están destinadas.</p>"
+                },
+                {
+                    "numero": "112",
+                    "contenido": "<p><strong>Artículo 112.</strong> — Los gastos para levantar cargas se apoyarán sobre bases firmes, se colocarán debidamente centrados y dispondrán de mecanismos que eviten su brusco descenso.</p>\n\n<p>Una vez elevada la carga, se colocarán calzas que no serán retiradas mientras algún trabajador se encuentre bajo la misma.</p>\n\n<p>Se emplearán sólo para cargas permisibles, en función de su potencia, que deberá estar marcada en el mismo.</p>"
+                },
+                {
+                    "numero": "113",
+                    "contenido": "<p><strong>Artículo 113.</strong> — Las herramientas portátiles accionadas por fuerza motriz, estarán suficientemente protegidas para evitar contactos y proyecciones peligrosas.</p>\n\n<p>Sus elementos cortantes, punzantes o lacerantes, estarán cubiertos con aisladores o protegidos con fundas o pantallas que, sin entorpecer las operaciones a realizar, determinen el máximo grado de seguridad para el trabajo.</p>\n\n<p>En las herramientas accionadas por gatillos, éstos estarán convenientemente protegidos a efectos de impedir el accionamiento imprevisto de los mismos.</p>\n\n<p>En las herramientas neumáticas e hidráulicas, las válvulas cerrarán automáticamente al dejar de ser presionadas por el operario y las mangueras y sus conexiones estarán firmemente fijadas a los tubos.</p>"
+                },
+                {
+                    "subtitulo": "Aparatos para izar"
+                },
+                {
+                    "numero": "114",
+                    "contenido": "<p><strong>Artículo 114.</strong> — La carga máxima admisible de cada aparato para izar se marcará en el mismo, en forma destacada y fácilmente legible desde el piso del local o terreno.</p>\n\n<p>Se prohibe utilizar estos aparatos con cargas superiores a la máxima admisible.</p>"
+                },
+                {
+                    "numero": "115",
+                    "contenido": "<p><strong>Artículo 115.</strong> — La elevación y descenso de las cargas se hará lentamente, evitando todo arranque o detención brusca y se efectuará, siempre que sea posible, en sentido vertical para evitar el balanceo.</p>\n\n<p>Cuando sea de absoluta necesidad la elevación de las cargas en sentido oblicuo, se tomarán las máximas garantías de seguridad por el jefe o encargado de tal trabajo.</p>\n\n<p>Las personas encargadas del manejo de los aparatos para izar, no deberán bajo ningún concepto transportar cargas por encima de las personas. Tanto aquellas, como los responsables de efectuar la dirección y señalamiento de las maniobras, estarán regidos por un código uniforme de señales bien comprensible.</p>\n\n<p>Cuando sea necesario mover cargas peligrosas, como ejemplo, metal fundido u objetos asiduos por electro imanes sobre puestos de trabajo, se avisará con antelación suficiente para que los trabajadores se sitúen en lugares seguros, sin que pueda efectuarse la operación hasta tener la evidencia de que el personal queda a cubierto de riesgo.</p>\n\n<p>No se dejarán los aparatos para izar con cargas suspendidas.</p>\n\n<p>Se prohibe viajar sobre cargas, ganchos o eslingas.</p>"
+                },
+                {
+                    "numero": "116",
+                    "contenido": "<p><strong>Artículo 116.</strong> — Todo nuevo aparato para izar será cuidadosamente revisado y ensayado, por personal competente, antes de utilizarlo.</p>\n\n<p>Diariamente, la persona encargada del manejo del aparato para izar, verificará el estado de todos los elementos sometidos a esfuerzo.</p>\n\n<p>Trimestralmente, personal especializado realizará una revisión general de todos los elementos de los aparatos para izar y a fondo, de los cables, cadenas, fin de carrera, límites de izaje, poleas, frenos y controles eléctricos y de mando, del aparato.</p>"
+                },
+                {
+                    "numero": "117",
+                    "contenido": "<p><strong>Artículo 117.</strong> — Los aparatos para izar y transportar, estarán equipados con dispositivos para el frenado efectivo de una carga superior en una vez y media la carga máxima admisible.</p>\n\n<p>Los accionados eléctricamente contarán la fuerza motriz al sobrepasar la altura o el desplazamiento máximo permisible.</p>"
+                },
+                {
+                    "numero": "118",
+                    "contenido": "<p><strong>Artículo 118.</strong> — Los elementos de las grúas se construirán y montarán con los coeficientes de seguridad siguientes, para su carga máxima admisible.</p>\n\n<p>1. Tres, para ganchos empleados en los aparatos accionados a mano.</p>\n\n<p>2. Cuatro, para ganchos en los accionados a fuerza motriz.</p>\n\n<p>3. Cinco, para aquellos que se empleen en el izado o transporte de materiales peligrosos.</p>\n\n<p>4. Cuatro, para las partes estructurales.</p>\n\n<p>5. Seis, para los cables izadores.</p>\n\n<p>Estarán provistos de lastres o contrapesos en proporción a la carga a izar.</p>\n\n<p>Previamente se asegurará la solidez y firmeza del suelo.</p>\n\n<p>Los armazones de los carros y los extremos del puente en las grúas móviles, estarán provistos de topes o ménsulas de seguridad para limitar la caída del carro o puente en el caso de rotura de una rueda o eje, como así también se dispondrá de ellos en los rieles.</p>\n\n<p>Las cabinas se instalarán de modo que la persona encargada de su manejo tenga durante la operación un campo de visibilidad adecuado, en los locales con carga térmica elevada y otros factores de contaminación ambiental, el ambiente de las mismas deberá cumplir con los requisitos establecidos en la presente reglamentación.</p>\n\n<p>Cuando se accionen las grúas desde el piso de los locales, se dispondrá de pasillos, a lo largo de su recorrido, de un ancho mínimo de 0,90 metros sin desniveles bruscos.</p>"
+                },
+                {
+                    "numero": "119",
+                    "contenido": "<p><strong>Artículo 119.</strong> — Los puentes-grúas estarán provistos de accesos fáciles y seguros hasta la cabina y de ésta a los pasillos del puente, por medio de escaleras fijas, verticales o inclinadas.</p>\n\n<p>Dispondrán de pasillos y plataformas de un ancho no inferior a 0 75 metros sin desniveles bruscos.</p>\n\n<p>Los pasillos y plataformas serán de construcción sólida, estarán provistos de barandas y sus pisos serán antideslizantes.</p>\n\n<p>Las cabinas de los puentes-grúas estarán además dotadas de ventanas, las que protegerán a la persona encargada de su manejo, contra las proyecciones de materiales fundidos o corrosivos, las radiaciones, los ruidos y la carga térmica severa.</p>\n\n<p>Se dotará a la cabina de matafuego adecuado. Asimismo los puentes-grúas estarán equipados con dispositivos de señales acústicas y estarán provistos de topes o paragolpes de fin de carrera.</p>"
+                },
+                {
+                    "numero": "120",
+                    "contenido": "<p><strong>Artículo 120.</strong> — En las cabinas de las grúas automotores se instalarán letreros o avisos para indicar la carga máxima admisible según las posiciones del brazo, las mismas estarán provistas de una puerta a cada lado y amplía visibilidad. Los pisos de las plataformas serán antideslizantes.</p>\n\n<p>Existirá un espacio mínimo de 0,50 m. entre los cuerpos giratorios y los armazones de las grúas, con el fin de evitar el aprisionamiento de los trabajadores entre ambos.</p>\n\n<p>Estarán dotadas de frenos de fuerza motriz y en las ruedas del carro de frenos de mano y equipadas con medios de iluminación y dispositivos de señales acústicas.</p>"
+                },
+                {
+                    "numero": "121",
+                    "contenido": "<p><strong>Artículo 121.</strong> — En las grúas portátiles, las palancas de maniobras se dispondrán de modo que cuando no se usen queden en posición de punto muerto o neutro, de tal manera que al activarlas impidan su funcionamiento.</p>\n\n<p>La zona de trabajo del piso o plataforma, donde el trabajador realice tareas, estará provista de barandas seguras.</p>\n\n<p>Las manivelas de control estarán protegidas por medio de resguardos para evitar contacto con objetos fijos o móviles.</p>"
+                },
+                {
+                    "subtitulo": "Aparejos para izar"
+                },
+                {
+                    "numero": "122",
+                    "contenido": "<p><strong>Artículo 122.</strong> — Las cadenas serán de acero forjado.</p>\n\n<p>El factor de seguridad no será inferior a 5 para la carga máxima admisible.</p>\n\n<p>Los anillos, ganchos, eslabones o argollas de los extremos serán del mismo material que las cadenas a los que van fijados. Los elementos integrantes de los aparejos para izar, serán revisados diariamente antes de ponerse en servicio.</p>\n\n<p>Cuando los eslabones sufran un desgaste de más del 20% o se hayan doblado o agrietado, serán cortados y reemplazados inmediatamente.</p>\n\n<p>Se enrollarán únicamente en tambores, ejes o poleas, que estén provistas de ranuras que permitan el enrollado sin torceduras.</p>\n\n<p>Todas las cadenas para izar y para eslingas, nuevas o reacondicionadas, serán sometidas a ensayos de tensión, los cuales se realizarán utilizando el doble de la carga nominal, antes de ponerse en servicio. La carga máxima admisible que puedan levantar verticalmente deberá estar indicada.</p>"
+                },
+                {
+                    "numero": "123",
+                    "contenido": "<p><strong>Artículo 123.</strong> — Los cables serán de construcción y tamaño apropiado para las operaciones en las que se los emplearán.</p>\n\n<p>El factor de seguridad para los mismos no será inferior a 6. Los ajustes de ojales y los lazos para los anillos, ganchos y argollas, estarán provistas de guardacabos resistentes.</p>\n\n<p>Estarán siempre libres de nudos, torceduras permanentes y otros defectos.</p>\n\n<p>Se inspeccionará diariamente el número de hilos rotos, desechándose aquellos cables en que lo están en más del 10% de los mismos, contados a lo largo de dos tramos del cableado, separado entre sí por una distancia inferior a ocho veces su diámetro.</p>"
+                },
+                {
+                    "numero": "124",
+                    "contenido": "<p><strong>Artículo 124.</strong> — Las cuerdas para izar o transportar cargas tendrán un factor de seguridad que no será inferior a 10.</p>\n\n<p>No se deslizarán sobre superficies ásperas o en contacto con tierra, arena, u otras sustancias abrasivas o sobre ángulos o aristas cortantes, a no ser que vayan protegidas.</p>\n\n<p>No se depositarán en locales en donde estén expuestas a contactos con sustancias químicas corrosivas, ni se almacenarán con nudos ni sobre superficies húmedas.</p>\n\n<p>La carga máxima admisible deberá estar indicada.</p>"
+                },
+                {
+                    "numero": "125",
+                    "contenido": "<p><strong>Artículo 125.</strong> — Las gargantas de las poleas permitirán el fácil desplazamiento y enrollado de los eslabones de las cadenas.</p>\n\n<p>Cuando se utilicen cables o cuerdas las gargantas serán de dimensiones adecuadas para que aquellas puedan desplazarse libremente y su superficie será lisa y con bordes redondeados.</p>"
+                },
+                {
+                    "numero": "126",
+                    "contenido": "<p><strong>Artículo 126.</strong> — Los ganchos serán de acero forjado.</p>\n\n<p>Estarán equipados con pestillos u otros dispositivos de seguridad para evitar que las cargas puedan salirse.</p>\n\n<p>Las partes que estén en contacto con cadenas, cables o cuerdas serán redondeadas.</p>"
+                },
+                {
+                    "numero": "127",
+                    "contenido": "<p><strong>Artículo 127.</strong> — Todos los elementos de los transportadores tendrán suficiente resistencia para soportar las cargas que deban ser desplazadas.</p>\n\n<p>Los pisos, plataformas y pasillos a lo largo de los transportadores, se conservarán libres de obstáculos, serán antideslizantes y dispondrán de drenaje para evitar la acumulación de líquidos.</p>\n\n<p>Los transportadores elevados a nivel del piso o en fosos, estarán provistos de barandas. Cuando se deba pasar por encima de transportadores, se instalarán puentes, cuyas escaleras y barandas serán seguras.</p>\n\n<p>Todas las transmisiones, mecanismos y motores de los mismos serán cubiertos con resguardos.</p>\n\n<p>Los transportadores elevados que crucen sobre lugares de trabajo estarán dotados de planchas o pantallas inferiores para recoger los materiales que pudieran caerse.</p>\n\n<p>Se dispondrá de frenos y dispositivos para la detención de la maquinaria y para evitar que aquellos puedan funcionar hacia atrás.</p>\n\n<p>Para la carga de materiales a granel se dispondrá de tolvas para la alimentación de los transportadores.</p>\n\n<p>Se protegerán las tolvas cuya parte superior esté situada a menos de 1 metro de altura sobre los pisos o plataformas de trabajo.</p>"
+                },
+                {
+                    "numero": "128",
+                    "contenido": "<p><strong>Artículo 128.</strong> — Los transportadores a rodillos por gravedad, estarán provistos de guías o barandillas a los lados de los mismos, si éstos se hallan a más de 1,50 m. sobre el piso y en todo caso, en las esquinas o vueltas de sus recorridos.</p>"
+                },
+                {
+                    "numero": "129",
+                    "contenido": "<p><strong>Artículo 129.</strong> — Los ejes y engranajes de los transportadores a rodillos por fuerza motriz, estarán cubiertos por resguardos y cuando entre los rodillos exista separación, el espacio entre ellos estará provisto de cubiertas resistentes, adecuadas para soportar una carga mínima de 70 kg. en cualquier punto, sin que aquellos se desplacen.</p>"
+                },
+                {
+                    "numero": "130",
+                    "contenido": "<p><strong>Artículo 130.</strong> — En los puntos de contacto de las cintas transportadoras, se instalarán resguardos hasta un metro del tambor. Cuando éstas penetran en fosos, éstos estarán cubiertos con rejillas o barandas que impidan el paso o caída de las personas.</p>"
+                },
+                {
+                    "numero": "131",
+                    "contenido": "<p><strong>Artículo 131.</strong> — Los transportadores helicoidales estarán siempre protegidos en su totalidad por cubiertas resistentes.</p>"
+                },
+                {
+                    "numero": "132",
+                    "contenido": "<p><strong>Artículo 132.</strong> — Los transportadores neumáticos estarán construidos con materiales de suficiente resistencia para soportar las respectivas presiones. Estarán cerrados herméticamente sin más aberturas que las necesarias a la propia operación y a su control, sólidamente sujetos a puntos fijos y provistos de conexiones a tierra para evitar la acumulación de electricidad estática.</p>\n\n<p>Cuando hayan de ser alimentados a mano, si las aberturas son superiores a 0,30 m. dispondrán de elementos de seguridad para que los trabajadores no sean arrastrados a los conductos.</p>\n\n<p>Las aberturas de aspiración se protegerán con rejillas metálicas adecuadas.</p>"
+                },
+                {
+                    "numero": "133",
+                    "contenido": "<p><strong>Artículo 133.</strong> — Las carretillas y carros manuales serán de material resistente en relación con las cargas que hayan de soportar, y de modelo apropiado para el transporte a efectuar.</p>\n\n<p>Si han de ser utilizadas en rampas pronunciadas estarán dotadas de freno.</p>\n\n<p>Nunca se sobrecargarán y se distribuirán los materiales en ellas en forma equilibrada.</p>"
+                },
+                {
+                    "numero": "134",
+                    "contenido": "<p><strong>Artículo 134.</strong> — Los autoelevadores, tractores y otros medios de transporte automotor, tendrán marcada en forma visible la carga máxima admisible a transportar.</p>\n\n<p>Los mandos de la puesta en marcha, aceleración, elevación y freno, reunirán las condiciones de seguridad necesarias para evitar su accionamiento involuntario.</p>\n\n<p>No se utilizarán vehículos de motor a explosión en locales donde exista riesgo de incendio o explosión, salvo que cuenten con instalaciones y dispositivos de seguridad adecuados al mismo.</p>\n\n<p>Sólo se permitirá su utilización a los conductores capacitados para tal tarea.</p>\n\n<p>Los asientos de los conductores deberán estar construidos de manera que neutralicen en medida suficiente las vibraciones, serán cómodos y tendrán respaldo y apoyo para los pies.</p>\n\n<p>Estarán provistos de luces, frenos y dispositivos de aviso acústico.</p>\n\n<p>En caso de dejarse en superficies inclinadas se bloquearán sus ruedas.</p>\n\n<p>Estarán dotados de matafuegos acorde con el riesgo existente.</p>\n\n<p>Cuando exista riesgo por desplazamiento de carga, las cabinas serán resistentes.</p>"
+                },
+                {
+                    "numero": "135",
+                    "contenido": "<p><strong>Artículo 135.</strong> — Los materiales utilizados en la construcción de tuberías serán adecuados a la temperatura, presión y naturaleza de las sustancias que conduzcan.</p>\n\n<p>Se recubrirán con materiales aislantes o se protegerán cuando por ellas circulen fluidos a temperatura tal, que exista riesgo de quemadura.</p>\n\n<p>Si transportan sustancias inflamables no pasarán en lo posible por las proximidades de motores, interruptores, calderas o aparatos de llama abierta y serán debidamente protegidas.</p>\n\n<p>Si transportan sustancias que puedan originar riesgo a los trabajadores y pasaran por encima de lugares de tránsito o puestos de trabajo, se protegerán debidamente.</p>\n\n<p>Las tuberías que conduzcan petróleo, sus derivados y gases combustibles, se instalarán bajo tierra siempre que sea posible.</p>\n\n<p>Se evitará que por sus juntas puedan producirse escapes de sustancias candentes, tóxicas, corrosivas o inflamables.</p>\n\n<p>Se colocarán instrucciones y planos de las instalaciones en sitios visibles, para una rápida detección y reparación de las fugas.</p>"
+                },
+                {
+                    "numero": "136",
+                    "contenido": "<p><strong>Artículo 136.</strong> — Los ferrocarriles, para el transporte interior en los establecimientos, reunirán las siguientes condiciones:</p>\n\n<p>1. Para el material fijo:</p>\n\n<p>1.1. El espacio libre que medie entre dos vías será como mínimo de 0,75 m. contado desde las partes más salientes de los vehículos que circulen por ellas.</p>\n\n<p>1.2. Si la vía se extiende a lo largo de muros, existirá asimismo una distancia entre aquella y éstos de 0,75 m. contado en la forma que indica el párrafo anterior.</p>\n\n<p>1.3. Esta distancia se reducirá a 0,50 m. cuando se trate de obstáculos aislados.</p>\n\n<p>1.4. Se dispondrán pasos inferiores y superiores a las vías y cuando no sea posible, se instalarán señales de advertencia de peligro en las inmediaciones de los pasos a nivel.</p>\n\n<p>2. Para el material móvil.</p>\n\n<p>Los vehículos, locomotoras y unidades estarán dotados de medios de aviso acústicos y visuales.</p>\n\n<p>2.1. Se prohibirá:</p>\n\n<p>2.1.1. Atravesar las vías delante de los vehículos en movimiento y montar sobre los parachoques o topes de los vehículos o máquinas.</p>\n\n<p>2.1.2. Pasar entre topes próximos o que estén aproximándose.</p>\n\n<p>2.1.3. Atravesar las vías por debajo de los vagones.</p>\n\n<p>2.1.4. Usar calzas que no sean previamente autorizadas.</p>\n\n<p>2.1.5. Empujar los vagones a mano colocándose entre los topes.</p>\n\n<p>2.1.6. Poner en movimiento las locomotoras sin que previamente se haya dado la señal acústica y visual correspondiente.</p>\n\n<p>Los vagones que hayan de moverse a mano lo serán siempre en terreno llano y habrán de ser empujados y no arrastrados.</p>\n\n<p>El movimiento de vagones sin locomotora y mediante medios mecánicos deberá hacerse siempre efectuando la tracción o empuje por uno de los laterales.</p>"
+                },
+                {
+                    "subtitulo": "Ascensores y Monto"
+                },
+                {
+                    "numero": "137",
+                    "contenido": "<p><strong>Artículo 137.</strong> — La construcción, instalación y mantenimiento de los ascensores para el personal y de los montacargas reunirán los requisitos y condiciones máximas de seguridad, no excediéndose en ningún caso las cargas máximas admisibles, establecidas por el fabricante.</p>\n\n<p>Las exigencias mínimas de seguridad serán:</p>\n\n<p>1. Todas las puertas exteriores, tanto de operación automática como manual, deberán contar con cerraduras electromecánicas cuyo accionamiento sea el siguiente:</p>\n\n<p>a) La traba mecánica impedirá la apertura de la puerta cuando el ascensor o montacargas no esté en ese piso.</p>\n\n<p>b) La traba eléctrica provocará la detención instantánea en caso de apertura de puerta.</p>\n\n<p>2. Todas las puertas interiores o de cabina, tanto de operación automática como manual, deberán poseer un contacto eléctrico que provoque la detención instantánea del ascensor o montacarga en caso de que la puerta se abra más de 0,025 m.</p>\n\n<p>3. Para casos de emergencia, todas las instalaciones con puertas automáticas deberán contar con un mecanismo de apertura manual operable desde el exterior mediante una llave especial.</p>\n\n<p>4. Todos los ascensores y montacargas deberán contar con interruptores de límite de carrera que impidan que continúe su viaje después de los pisos extremos.</p>\n\n<p>Estos límites lo harán detener instantáneamente a una distancia del piso tal, que los pasajeros puedan abrir las puertas manualmente y descender normalmente.</p>\n\n<p>5. Todos los ascensores y los montacargas deberán tener sistemas que provoquen su detención instantánea y trabado contra las guías en caso en que la cabina tome velocidad descendiente excesiva, equivalente al 40 ó 50% más de su velocidad normal, debido a fallas en el motor, corte de cables de tracción u otras causas.</p>\n\n<p>Estos sistemas de detención instantánea poseerán interruptores eléctricos, que cortarán la fuerza motriz antes de proceder al frenado mecánico descripto.</p>\n\n<p>6. En el interior de los ascensores y en los montacargas se deberá tener un dispositivo cuya operación provocará su detención instantánea.</p>\n\n<p>7. En todos los ascensores y montacargas deberá indicarse en forma destacada y fácilmente legible la cantidad de pasajeros que puede transportar o la carga máxima admisible, respectivamente.</p>\n\n<p>8. En caso de que los ascensores cuenten con células fotoeléctricas para reapertura automática de puertas, los circuitos de este sistema deberán impedir que éstas permanezcan abiertas indefinidamente, en caso en que se interponga humo entre el receptor y el emisor.</p>\n\n<p>9. Deberá impedirse que conductores eléctricos ajenos al funcionamiento se pasen por adentro del pasadizo o hueco.</p>\n\n<p>10. Los ascensores con puertas automáticas que se instalen con posterioridad a la fecha de vigencia de esta reglamentación, deberán estar provistos de medios de intercomunicación.</p>\n\n<p>11. La sala de máquinas deberá estar libre de objetos almacenados, debido al riesgo de incendios provocados por los arcos voltaicos y dispondrá de matafuego adecuado.</p>"
+                }
+            ]
+            },
+            {
+            "nombre": "Capítulo 16: Aparatos que puedan desarrollar presión interna",
+            "articulos": ["Artículo 138 al 144"]
+            },
+            {
+            "nombre": "Capítulo 17: Trabajos con riesgos especiales",
+            "articulos": ["Artículo 145 al 159"]
+            },
+            {
+            "nombre": "Capítulo 18: Protección contra incendios",
+            "articulos": ["Artículo 160 al 187"]
+            }
+        ]
+        },
+        {
+        "nombre": "TÍTULO VI: Protección Personal del Trabajador",
+        "capitulos": [
+            {
+            "nombre": "Capítulo 19: Protección personal del trabajador",
+            "articulos": ["Artículo 188 al 203"]
+            }
+        ]
+        },
+        {
+        "nombre": "TÍTULO VII: Selección y Capacitación del Personal",
+        "capitulos": [
+            {
+            "nombre": "Capítulo 20: Selección de personal",
+            "articulos": ["Artículo 204 al 207"]
+            },
+            {
+            "nombre": "Capítulo 21: Capacitación",
+            "articulos": ["Artículo 208 al 214"]
+            }
+        ]
+        },
+        {
+        "nombre": "TÍTULO VIII: Estadísticas de Accidentes y Enfermedades del Trabajo",
+        "capitulos": [
+            {
+            "nombre": "Capítulo 22: Registros e información",
+            "derogado": true
+            }
+        ]
+        },
+        {
+        "nombre": "TÍTULO IX: Plazos, Modificaciones y Sanciones",
+        "capitulos": [
+            {
+            "nombre": "Capítulo 23: Plazos, modificaciones y sanciones",
+            "articulos": ["Artículo 227 al 229"]
+            },
+            {
+            "nombre": "Capítulo 24: Sanciones",
+            "articulos": ["Artículo 230 al 232"]
+            }
+        ]
+        }
+    ],
+        "anexos": [
+            {
+            "nombre": "ANEXO II: Carga Térmica",
+            "complementa": "Capítulo 8 del Título IV"
+            },
+            {
+            "nombre": "ANEXO III: Contaminación Ambiental",
+            "complementa": "Capítulo 9 del Título IV"
+            },
+            {
+            "nombre": "ANEXO IV: Iluminación y Color",
+            "complementa": "Capítulo 12 del Título IV"
+            },
+            {
+            "nombre": "ANEXO V: Ruidos y Vibraciones",
+            "complementa": "Capítulo 13 del Título IV"
+            },
+            {
+            "nombre": "ANEXO VI: Instalaciones Eléctricas",
+            "complementa": "Capítulo 14 del Título V"
+            },
+            {
+            "nombre": "ANEXO VII: Protección contra Incendios",
+            "complementa": "Capítulo 18 del Título V"
+            },
+            {
+            "nombre": "ANEXO VIII",
+            "complementa": "Capítulo 22 del Título VIII",
+            "derogado": true
+            }
+        ]
+}
