@@ -137,6 +137,18 @@ document.addEventListener('DOMContentLoaded', async function() {
         }
     });
 
+    // Hacer que el Anexo I siga el comportamiento de los capítulos
+    const anexoICapitulo = document.querySelector('#contenedor-anexo-i .capitulo');
+    const anexoIArticulos = document.querySelector('#contenedor-anexo-i .articulos');
+
+    anexoICapitulo.addEventListener('click', () => {
+        const visible = contenedorLey.style.display === 'block';
+        contenedorLey.style.display = visible ? 'none' : 'block';
+        anexoICapitulo.classList.toggle('abierto', !visible);
+    
+        // No se manipula flecha en ANEXO I, ya que no existe
+    });
+
     // Cargar la estructura de la ley
     const contenedorLey = document.getElementById('contenedor-ley');
     const contenedorAnexos = document.getElementById('contenedor-anexos');

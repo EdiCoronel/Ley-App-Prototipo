@@ -195,6 +195,18 @@ p, .articulo, .anexo {
     font-size: 1.1rem;
 }
 
+.articulos-anexo-i {
+    margin-left: 0;
+    padding-left: 0;
+    border-left: none;
+}
+
+#contenedor-anexo-i .capitulo span {
+    font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.1rem; /* Ajusta según el tamaño de los otros anexos */
+    font-weight: 700; /* Negritas */
+}
+
 footer {
     margin-top: 2rem;
     padding: 1rem;
