@@ -1,47 +1,59 @@
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
     padding: 2rem;
-    background-color: #f9f9f9;
-    color: #333;
+    background: #e0e5ec;
+    color: #2c3e50;
 }
 
 h1, h2 {
-    color: #2c3e50;
+    font-weight: 700;
+    color: #1e2a38;
     margin-bottom: 1rem;
+    text-shadow: 1px 1px 2px #d1d9e6;
+    text-align: center;
 }
 
-p {
+h3, .subtitulo {
+    font-weight: 600;
+    color: #334155;
+}
+
+p, .articulo, .anexo {
+    font-weight: 400;
     font-size: 1.1rem;
-    margin-bottom: 2rem;
+    margin-bottom: 1.5rem;
 }
 
 .titulo {
     margin-bottom: 2rem;
-    padding: 1rem;
-    background-color: #ecf0f1;
-    border-left: 5px solid #2980b9;
-    border-radius: 5px;
+    padding: 1.2rem;
+    background: #e0e5ec;
+    border-radius: 12px;
+    box-shadow: 6px 6px 12px #c8d0e7, -6px -6px 12px #ffffff;
+    font-weight: 700;
 }
 
 .capitulo {
     cursor: pointer;
-    padding: 0.5rem;
-    margin: 0.5rem 0;
-    background-color: #ffffff;
-    border: 1px solid #ccc;
-    border-left: 5px solid #3498db;
-    border-radius: 4px;
-    transition: background-color 0.3s ease;
+    padding: 0.8rem 1.2rem;
+    margin: 0.6rem 0;
+    background: #e0e5ec;
+    border-radius: 10px;
+    box-shadow: inset 2px 2px 5px #c8d0e7, inset -2px -2px 5px #ffffff;
+    transition: background-color 0.3s, box-shadow 0.3s, transform 0.2s;
+    font-weight: 600;
 }
 
 .capitulo:hover {
-    background-color: #dfe6e9;
+    background-color: #d9e1ec;
+    transform: translateY(-2px);
+    box-shadow: 8px 8px 15px #c8d0e7, -8px -8px 15px #ffffff;
 }
 
 .capitulo .flecha {
     margin-right: 10px;
-    transition: transform 0.3s ease;
+    transition: transform 0.3s;
     display: inline-block;
 }
 
@@ -52,44 +64,42 @@ p {
 .articulos {
     margin-left: 1.5rem;
     padding-left: 1rem;
-    border-left: 2px dashed #ccc;
+    border-left: 2px dashed #b0b8c2;
     display: none;
 }
 
 .articulos p {
-    margin: 0.3rem 0;
+    margin: 0.5rem 0;
 }
 
 .derogado {
-    color: red;
-    font-weight: bold;
+    color: #e74c3c;
+    font-weight: 700;
     margin-left: 10px;
 }
 
 .anexo {
     margin: 0.5rem 0;
-    padding: 0.5rem 1rem;
-    background-color: #eaf7f2;
-    border-left: 5px solid #27ae60;
-    border-radius: 5px;
+    padding: 0.8rem 1.2rem;
+    background: #e0e5ec;
+    border-radius: 10px;
+    box-shadow: inset 2px 2px 5px #c8d0e7, inset -2px -2px 5px #ffffff;
 }
 
-/* Estilos para artículos clickeables */
 .articulo {
     cursor: pointer;
-    color: #2980b9;
-    padding: 0.3rem 0.5rem;
-    border-radius: 3px;
-    margin: 0.2rem 0;
-    transition: all 0.2s ease;
+    color: #4e8cff;
+    padding: 0.4rem 0.6rem;
+    border-radius: 8px;
+    margin: 0.3rem 0;
+    transition: background-color 0.3s, box-shadow 0.3s;
 }
 
 .articulo:hover {
-    background-color: #e6f2ff;
-    text-decoration: underline;
+    background-color: #d9e1ec;
+    box-shadow: 2px 2px 8px #c8d0e7, -2px -2px 8px #ffffff;
 }
 
-/* Estilos del modal mejorado */
 .modal {
     display: none;
     position: fixed;
@@ -98,54 +108,55 @@ p {
     top: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(0,0,0,0.7);
+    background: rgba(224, 229, 236, 0.95);
     overflow: auto;
 }
 
 .modal-content {
-    background-color: #fefefe;
-    margin: 2% auto;
-    padding: 25px;
-    border-radius: 5px;
-    width: 80%;
-    max-width: 700px;
-    box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+    background: #e0e5ec;
+    margin: 3% auto;
+    padding: 30px;
+    border-radius: 20px;
+    width: 85%;
+    max-width: 750px;
+    box-shadow: 8px 8px 16px #c8d0e7, -8px -8px 16px #ffffff;
     position: relative;
-    animation: modalopen 0.3s;
+    animation: modalopen 0.4s ease;
+    font-weight: 400;
 }
 
 @keyframes modalopen {
-    from { opacity: 0; transform: translateY(-20px); }
-    to { opacity: 1; transform: translateY(0); }
+    from { opacity: 0; transform: scale(0.95); }
+    to { opacity: 1; transform: scale(1); }
 }
 
 .modal-body {
-    padding: 10px;
-    line-height: 1.6;
-    max-height: 70vh;
+    padding: 15px;
+    line-height: 1.7;
+    max-height: 75vh;
     overflow-y: auto;
 }
 
 .modal-body h3 {
-    color: #2c3e50;
-    border-bottom: 1px solid #eee;
-    padding-bottom: 10px;
+    color: #1e2a38;
+    border-bottom: 1px solid #d1d9e6;
+    padding-bottom: 12px;
     margin-top: 0;
 }
 
 .close-btn {
     position: absolute;
-    top: 15px;
-    right: 25px;
-    font-size: 28px;
-    font-weight: bold;
-    color: #aaa;
+    top: 20px;
+    right: 30px;
+    font-size: 30px;
+    font-weight: 700;
+    color: #7b8794;
     cursor: pointer;
     transition: color 0.2s;
 }
 
 .close-btn:hover {
-    color: #333;
+    color: #4e8cff;
 }
 
 .article-content {
@@ -154,17 +165,48 @@ p {
 
 .article-not-found {
     padding: 20px;
-    background-color: #ffeeee;
-    border-left: 4px solid #ff6b6b;
+    background: #f8d7da;
+    border-left: 4px solid #e57373;
+    border-radius: 8px;
+    font-weight: 500;
 }
 
-/* Estilos para subtítulos */
 .subtitulo {
-    margin: 0.8rem 0 0.3rem 0;
-    padding: 0.5rem;
-    background-color: #f0f0f0;
-    border-left: 3px solid #7f8c8d;
-    font-weight: bold;
-    color: #34495e;
-    font-size: 0.95rem;
+    margin: 0.8rem 0 0.5rem 0;
+    padding: 0.6rem;
+    background: #e0e5ec;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 1rem;
+    letter-spacing: 0.5px;
+    box-shadow: inset 1px 1px 4px #c8d0e7, inset -1px -1px 4px #ffffff;
 }
+
+.container {
+    max-width: 80%;
+    margin: 0 auto; /* Centrar */
+    padding: 2rem 1rem;
+}
+
+.container > p {
+    text-align: center;
+    margin-bottom: 1.5rem;
+    font-weight: 400;
+    font-size: 1.1rem;
+}
+
+/* Responsivo para pantallas pequeñas */
+@media (max-width: 768px) {
+    .container {
+        max-width: 90%;
+        padding: 1.5rem 1rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .container {
+        max-width: 95%;
+        padding: 1rem 0.5rem;
+    }
+}
+
