@@ -195,6 +195,23 @@ p, .articulo, .anexo {
     font-size: 1.1rem;
 }
 
+footer {
+    margin-top: 2rem;
+    padding: 1rem;
+    text-align: center;
+    font-size: 0.9rem;
+    color: #7f8c8d;
+}
+
+footer a {
+    color: #3498db;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
 /* Responsivo para pantallas pequeñas */
 @media (max-width: 768px) {
     .container {
