@@ -920,28 +920,34 @@
     ],
         "anexos": [
             {
-            "nombre": "ANEXO II: Carga Térmica",
-            "complementa": "Capítulo 8 del Título IV"
+                "nombre": "ANEXO II: Carga Térmica",
+                "complementa": "Capítulo 8 del Título IV",
+                "contenido": "<a href=\"https://servicios.infoleg.gob.ar/infolegInternet/anexos/30000-34999/32030/dto351-1979-anexo2.htm\" target=\"_blank\" style=\"font-size: 1.25rem; font-weight: bold; color: black; text-decoration: none; display: inline-block; margin: 8px 0;\">ANEXO II: Carga Térmica — Capítulo 8 del Título IV</a>"
             },
             {
             "nombre": "ANEXO III: Contaminación Ambiental",
-            "complementa": "Capítulo 9 del Título IV"
+            "complementa": "Capítulo 9 del Título IV",
+            "contenido": "<a href=\"https://servicios.infoleg.gob.ar/infolegInternet/anexos/30000-34999/32030/dto351-1979-anexo3.htm\" target=\"_blank\" style=\"font-size: 1.25rem; font-weight: bold; color: black; text-decoration: none; display: inline-block; margin: 8px 0;\">ANEXO III: Contaminación Ambiental — Capítulo 9 del Título IV</a>"
             },
             {
             "nombre": "ANEXO IV: Iluminación y Color",
-            "complementa": "Capítulo 12 del Título IV"
+            "complementa": "Capítulo 12 del Título IV",
+            "contenido": "<a href=\"https://servicios.infoleg.gob.ar/infolegInternet/anexos/30000-34999/32030/dto351-1979-anexo4.htm\" target=\"_blank\" style=\"font-size: 1.25rem; font-weight: bold; color: black; text-decoration: none; display: inline-block; margin: 8px 0;\">ANEXO IV: Iluminación y Color — Capítulo 12 del Título IV</a>"
             },
             {
             "nombre": "ANEXO V: Ruidos y Vibraciones",
-            "complementa": "Capítulo 13 del Título IV"
+            "complementa": "Capítulo 13 del Título IV",
+            "contenido": "<a href=\"https://servicios.infoleg.gob.ar/infolegInternet/anexos/30000-34999/32030/dto351-1979-anexo5.htm\" target=\"_blank\" style=\"font-size: 1.25rem; font-weight: bold; color: black; text-decoration: none; display: inline-block; margin: 8px 0;\">ANEXO V: Ruidos y Vibraciones — Capítulo 13 del Título IV</a>"
             },
             {
             "nombre": "ANEXO VI: Instalaciones Eléctricas",
-            "complementa": "Capítulo 14 del Título V"
+            "complementa": "Capítulo 14 del Título V",
+            "contenido": "<a href=\"https://servicios.infoleg.gob.ar/infolegInternet/anexos/30000-34999/32030/dto351-1979-anexo6.htm\" target=\"_blank\" style=\"font-size: 1.25rem; font-weight: bold; color: black; text-decoration: none; display: inline-block; margin: 8px 0;\">ANEXO VI: Instalaciones Eléctricas — Capítulo 14 del Título V</a>"
             },
             {
             "nombre": "ANEXO VII: Protección contra Incendios",
-            "complementa": "Capítulo 18 del Título V"
+            "complementa": "Capítulo 18 del Título V",
+            "contenido": "<a href=\"https://servicios.infoleg.gob.ar/infolegInternet/anexos/30000-34999/32030/dto351-1979-anexo7.htm\" target=\"_blank\" style=\"font-size: 1.25rem; font-weight: bold; color: black; text-decoration: none; display: inline-block; margin: 8px 0;\">ANEXO VII: Protección contra Incendios — Capítulo 18 del Título V</a>"
             },
             {
             "nombre": "ANEXO VIII",

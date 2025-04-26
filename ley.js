@@ -44,7 +44,7 @@ const LawDataModule = (function() {
                         const articuloNormalized = normalizeArticleNumber(articulo.numero);
                         if (articuloNormalized === normalizedNumber) {
                             return articulo.contenido || 
-                                   `<div class="article-content">
+                                    `<div class="article-content">
                                         <h3>Artículo ${articulo.numero}</h3>
                                         <p>Contenido no disponible para este artículo.</p>
                                     </div>`;
@@ -96,11 +96,33 @@ const LawDataModule = (function() {
         return false;
     }
 
+    // Obtener contenido de un anexo
+    function getAnexoContent(anexoName) {
+        if (!loaded) return "<p>Los datos de la ley aún se están cargando...</p>";
+        
+        for (const anexo of leyData.anexos) {
+            if (anexo.nombre === anexoName) {
+                return anexo.contenido || 
+                        `<div class="anexo-content">
+                            <h3>${anexo.nombre}</h3>
+                            <p>Complementa: ${anexo.complementa}</p>
+                            ${anexo.derogado ? '<p class="derogado">Este anexo ha sido derogado.</p>' : ''}
+                            <p>Contenido detallado no disponible en el JSON.</p>
+                        </div>`;
+            }
+        }
+        
+        return `<div class="anexo-not-found">
+                    <p>No se encontró el anexo "${anexoName}"</p>
+                </div>`;
+    }
+
     return {
         loadLawData,
         getArticleContent,
         getArticlesByChapter,
         isChapterDerogated,
+        getAnexoContent,
         get isLoaded() { return loaded; },
         get data() { return leyData; }
     };

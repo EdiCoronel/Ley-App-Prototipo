@@ -220,14 +220,29 @@ document.addEventListener('DOMContentLoaded', async function() {
         contenedorLey.appendChild(divTitulo);
     });
 
-    // Cargar anexos
+    // Cargar anexos (haciéndolos clickeables)
     leyData.anexos.forEach(anexo => {
         const divAnexo = document.createElement('div');
         divAnexo.className = 'anexo';
-        divAnexo.innerHTML = `<strong>${anexo.nombre}</strong> - Complementa: ${anexo.complementa}`;
+        
+        // Hacer el anexo clickeable
+        divAnexo.style.cursor = 'pointer';
+        divAnexo.addEventListener('click', () => {
+            const content = window.LawData.getAnexoContent(anexo.nombre);
+            openModal(content);
+        });
+        
+        // Contenido del anexo
+        const anexoContent = document.createElement('div');
+        anexoContent.innerHTML = `<strong>${anexo.nombre}</strong> - Complementa: ${anexo.complementa}`;
         if (anexo.derogado) {
-            divAnexo.innerHTML += ` <span class='derogado'>(Derogado)</span>`;
+            const spanDerogado = document.createElement('span');
+            spanDerogado.className = 'derogado';
+            spanDerogado.textContent = ' (Derogado)';
+            anexoContent.appendChild(spanDerogado);
         }
+        
+        divAnexo.appendChild(anexoContent);
         contenedorAnexos.appendChild(divAnexo);
     });
 });
